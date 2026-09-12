@@ -16,3 +16,13 @@ ktlint_standard_max-line-length = disabled
 ktlint_standard_mixed-condition-operators = disabled
 ktlint_standard_package-name = disabled
 ktlint_standard_property-naming = disabled
+
+[*.{kt,kts}]
+ktlint_standard_backing-property-naming = disabled
+ktlint_standard_kdoc = disabled
+ktlint_standard_function-naming = disabled
+ktlint_standard_filename = disabled
+ktlint_standard_no-wildcard-imports = disabled
+ktlint_standard_import-ordering = disabled   
+
+
